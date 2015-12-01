@@ -7,7 +7,7 @@
   },
   {
     "remote": "mo",
-    "repository": "kernel/lge/hammerhead",
+    "repository": "kernel_lge_hammerhead",
     "target_path": "kernel/lge/hammerhead",
     "revision": "mm-6.0"
   },
