@@ -1,7 +1,7 @@
 [
   {
     "remote": "mo",
-    "repository": "device_lge_hammerhead",
+    "repository": "android_device_lge_hammerhead",
     "target_path": "device/lge/hammerhead",
     "revision": "mr1"
   },
