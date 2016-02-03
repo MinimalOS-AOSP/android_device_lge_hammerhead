@@ -3,18 +3,18 @@
     "remote": "mo",
     "repository": "device_lge_hammerhead",
     "target_path": "device/lge/hammerhead",
-    "revision": "mm-6.0"
+    "revision": "mr1"
   },
   {
     "remote": "mo",
     "repository": "kernel_lge_hammerhead",
     "target_path": "kernel/lge/hammerhead",
-    "revision": "mm-6.0"
+    "revision": "mr1"
   },
   { 
     "remote": "mo",
     "repository": "proprietary_vendor_lge",
     "target_path": "vendor/lge",
-    "revision": "mm-6.0"
+    "revision": "mr1"
   }
 ]
